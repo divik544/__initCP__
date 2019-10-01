@@ -1,6 +1,6 @@
 
 ## SPOJ Questions
-Here is a list of questions from [spoj.com](www.spoj.com) that you can try out.
+Here is a list of questions from [spoj.com](https://www.spoj.com/) that you can try out.
 - [SAMER08F](https://www.spoj.com/problems/SAMER08F/)
 - [NSTEPS](https://www.spoj.com/problems/NSTEPS/)
 - [FASHION](https://www.spoj.com/problems/FASHION/)
@@ -16,6 +16,7 @@ Here is a list of questions from [spoj.com](www.spoj.com) that you can try out.
 - [MARBLES](https://www.spoj.com/problems/MARBLES/)
 - [EGYPIZZA](https://www.spoj.com/problems/EGYPIZZA)
 - [OFFSIDE](https://www.spoj.com/problems/OFFSIDE)
+- [STPAR](https://www.spoj.com/problems/STPAR/)
 
 Start using `C++`, refer any resource explaining basic `cin` `cout` syntax.
 Then learn how to use inbuilt library functions like `sort` in `C++`. This will be enough to solve many adhoc problems.
