@@ -16,6 +16,10 @@ Here is a list of questions from [spoj.com](https://www.spoj.com/) that you can 
 - [MARBLES](https://www.spoj.com/problems/MARBLES/)
 - [EGYPIZZA](https://www.spoj.com/problems/EGYPIZZA)
 - [OFFSIDE](https://www.spoj.com/problems/OFFSIDE)
+- [OLOLO](https://www.spoj.com/problems/OLOLO/)
+- [MAJOR](https://www.spoj.com/problems/MAJOR/)
+- [ACPC11B](https://www.spoj.com/problems/ACPC11B/)
+- [FACEFRND](https://www.spoj.com/problems/FACEFRND/)
 - [STPAR](https://www.spoj.com/problems/STPAR/)
 
 Start using `C++`, refer any resource explaining basic `cin` `cout` syntax.
